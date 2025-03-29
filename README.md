@@ -56,7 +56,7 @@ Database `luxetask` memiliki tabel utama yaitu `users` dan `tasks`, dengan struk
 1. Pastikan Anda telah menginstall **XAMPP** versi `8.2` atau yang lebih baru.  
 2. Clone repository ini:  
    ```bash
-   git clone https://github.com/SyhrlmyZID/ujikom.git
+   git clone https://github.com/SyhrlmyZID/project-todolist.git
 3. Pindahkan File project dengan nama ujikom-main ke folder htdocs.
 4. Buat database dengan nama: luxetask di phpMyAdmin.
 6. Pastikan sudah dipilih database nya dengan nama luxetask lalu klik import pada navbar phpMyAdmin.
